@@ -5,7 +5,7 @@
 **A 3D Unity mobile auto-runner and hack-and-slash action game blending time manipulation, color-based sword abilities, and burst mechanics.**
 
 [![Engine](https://img.shields.io/badge/Engine-Unity%202022.3%20LTS-000000?style=flat-square&logo=unity)](https://unity.com/)
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Google%20Play-3DDC84?style=flat-square&logo=android)](https://play.google.com/)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Google%20Play-3DDC84?style=flat-square&logo=android)](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)
 [![Language](https://img.shields.io/badge/Code-C%23-239120?style=flat-square&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 <br>
@@ -21,6 +21,18 @@
 **Time Breaker: Action & Runner** is a mobile 3D action-runner developed in **Unity (`2022.3.62f3`)** for **Android** and published on **Google Play**. It combines continuous lane/path running with responsive melee combos, time-rewind movement, elemental sword skills, and area-of-effect burst abilities across structured stages, special areas, and boss encounters.
 
 This repository presents a high-level architectural and engineering overview of the project without exposing proprietary source code or sensitive security internals.
+
+---
+
+## 🖼️ Screenshots
+
+| Gameplay & Combat | Color Sword Skills |
+| :---: | :---: |
+| ![Gameplay & Combat](https://play-lh.googleusercontent.com/8ObMFEpBbBOJfaerWXix-zYIeD3IGzHFnFeVBYOZDr0ywP4tSjs12Vrk2IcgjTklzwB-yCq-aLoINrvFgIZzNA=w2560-h1440-rw) | ![Color Sword Skills](https://play-lh.googleusercontent.com/myal_4vTYaBTZIJ1L-5N1uB232DFr4TqOAivWYNDHkcL9X90uQ-ly81D-n9p_dW2HNAr28Ka5eEvcrpjkmVW=w2560-h1440-rw) |
+
+| Burst Abilities & Bosses | Upgrades & Customization |
+| :---: | :---: |
+| ![Burst Abilities & Bosses](https://play-lh.googleusercontent.com/7G_2W6oEKQbXtdIepzJgOVT1a5iUhXPgfq4uUg9CYzREw4hnvL1QLzAi04-zVHSX419jFTlI5_oRqSc4HXFmMg=w2560-h1440-rw) | ![Upgrades & Customization](https://play-lh.googleusercontent.com/IWpVI46HjP7d8R3rxMqJ51UEfNuZSMMaxAQ_mVtwCW77dKYafQhgt_2cXwokknrcZS_8HqVCA5cvj5L_IwJ0RTE=w2560-h1440-rw) |
 
 ---
 
