@@ -10,7 +10,7 @@
 
 <br>
 
-📱 **[View on Google Play](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)**
+📱 **[View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.timebreaker)**
 
 </div>
 
